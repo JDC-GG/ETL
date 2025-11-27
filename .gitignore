@@ -1,0 +1,19 @@
+# Robot Framework
+*.log
+*.xml
+*.html
+output/
+report/
+log/
+*.db
+*.sqlite
+__pycache__/
+*.pyc
+*.pyo
+*.swp
+.env
+.venv/
+.idea/
+.vscode/
+.DS_Store
+downloads/

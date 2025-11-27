@@ -1,0 +1,363 @@
+{
+  "stations": {
+    "27": {
+      "name": "Bolivia",
+      "codes": {
+        "S_27_1":  { "label": "PM10",          "unit": "µg/m3" },
+        "S_27_2":  { "label": "Temperatura",   "unit": "°C" },
+        "S_27_4":  { "label": "Presion Baro",  "unit": "mmHg" },
+        "S_27_5":  { "label": "HR",            "unit": "%" },
+        "S_27_6":  { "label": "Vel Viento",    "unit": "m/s" },
+        "S_27_7":  { "label": "Dir Viento",    "unit": "Grados" },
+        "S_27_8":  { "label": "Precipitacion", "unit": "mm" },
+        "S_27_10": { "label": "Rad Solar",     "unit": "W/m²" },
+        "S_27_13": { "label": "PM2.5",         "unit": "µg/m3" },
+        "S_27_14": { "label": "NO",            "unit": "ppb" },
+        "S_27_15": { "label": "NO2",           "unit": "ppb" },
+        "S_27_16": { "label": "NOX",           "unit": "ppb" },
+        "S_27_18": { "label": "CO",            "unit": "ppm" },
+        "S_27_19": { "label": "OZONO",         "unit": "ppb" }
+      }
+    },
+    "8": {
+      "name": "Guaymaral",
+      "codes": {
+        "S_8_1":  { "label": "PM10",             "unit": "µg/m3" },
+        "S_8_2":  { "label": "Vel Viento 10M",   "unit": "m/s" },
+        "S_8_3":  { "label": "Dir Viento 10M",   "unit": "Grados" },
+        "S_8_6":  { "label": "Temperatura",      "unit": "°C" },
+        "S_8_7":  { "label": "Temperatura 8M",   "unit": "°C" },
+        "S_8_8":  { "label": "Temperatura 20M",  "unit": "°C" },
+        "S_8_11": { "label": "HR",               "unit": "%" },
+        "S_8_12": { "label": "Presion Baro",     "unit": "mmHg" },
+        "S_8_13": { "label": "Rad Solar",        "unit": "W/m²" },
+        "S_8_14": { "label": "Precipitacion",    "unit": "mm" },
+        "S_8_18": { "label": "OZONO",            "unit": "ppb" },
+        "S_8_23": { "label": "NO",               "unit": "ppb" },
+        "S_8_24": { "label": "NO2",              "unit": "ppb" },
+        "S_8_25": { "label": "NOX",              "unit": "ppb" },
+        "S_8_28": { "label": "PM2.5",            "unit": "µg/m3" },
+        "S_8_42": { "label": "CO",               "unit": "ppm" },
+        "S_8_50": { "label": "SO2",              "unit": "ppb" }
+      }
+    },
+    "3": {
+      "name": "Carvajal - Sevillana",
+      "codes": {
+        "S_3_1":  { "label": "PM10",         "unit": "µg/m3" },
+        "S_3_4":  { "label": "CO",           "unit": "ppm" },
+        "S_3_5":  { "label": "SO2",          "unit": "ppb" },
+        "S_3_9":  { "label": "Vel Viento",   "unit": "m/s" },
+        "S_3_10": { "label": "Dir Viento",   "unit": "Grados" },
+        "S_3_11": { "label": "Temperatura",  "unit": "°C" },
+        "S_3_12": { "label": "Precipitacion","unit": "mm" },
+        "S_3_15": { "label": "PM2.5",        "unit": "µg/m3" }
+      }
+    },
+    "5": {
+      "name": "Centro de Alto Rendimiento",
+      "codes": {
+        "S_5_1":  { "label": "PM10",         "unit": "µg/m3" },
+        "S_5_2":  { "label": "CO",           "unit": "ppm" },
+        "S_5_3":  { "label": "OZONO",        "unit": "ppb" },
+        "S_5_4":  { "label": "NO",           "unit": "ppb" },
+        "S_5_5":  { "label": "NO2",          "unit": "ppb" },
+        "S_5_6":  { "label": "NOX",          "unit": "ppb" },
+        "S_5_7":  { "label": "SO2",          "unit": "ppb" },
+        "S_5_8":  { "label": "Vel Viento",   "unit": "m/s" },
+        "S_5_9":  { "label": "Dir Viento",   "unit": "Grados" },
+        "S_5_10": { "label": "Temperatura",  "unit": "°C" },
+        "S_5_11": { "label": "HR",           "unit": "%" },
+        "S_5_12": { "label": "Precipitacion","unit": "mm" },
+        "S_5_13": { "label": "Rad Solar",    "unit": "W/m²" },
+        "S_5_18": { "label": "PM2.5",        "unit": "µg/m3" },
+        "S_5_19": { "label": "CO2",          "unit": "ppm" },
+        "S_5_23": { "label": "Presion Baro", "unit": "mmHg" },
+        "S_5_45": { "label": "BBP",          "unit": "%" },
+        "S_5_53": { "label": "eBC",          "unit": "µg/m3" }
+      }
+    },
+    "37": {
+      "name": "Ciudad Bolivar",
+      "codes": {
+        "S_37_1":  { "label": "PM10",         "unit": "µg/m3" },
+        "S_37_2":  { "label": "PM2.5",        "unit": "µg/m3" },
+        "S_37_3":  { "label": "NO",           "unit": "ppb" },
+        "S_37_4":  { "label": "NO2",          "unit": "ppb" },
+        "S_37_5":  { "label": "NOX",          "unit": "ppb" },
+        "S_37_6":  { "label": "SO2",          "unit": "ppb" },
+        "S_37_7":  { "label": "CO",           "unit": "ppm" },
+        "S_37_8":  { "label": "OZONO",        "unit": "ppb" },
+        "S_37_9":  { "label": "Vel Viento",   "unit": "m/s" },
+        "S_37_10": { "label": "Dir Viento",   "unit": "Grados" },
+        "S_37_11": { "label": "Temperatura",  "unit": "°C" },
+        "S_37_13": { "label": "Presion Baro", "unit": "mmHg" },
+        "S_37_14": { "label": "Rad Solar",    "unit": "W/m²" },
+        "S_37_31": { "label": "BBP",          "unit": "%" },
+        "S_37_32": { "label": "Precipitacion","unit": "mm" },
+        "S_37_36": { "label": "eBC",          "unit": "µg/m3" }
+      }
+    },
+    "38": {
+      "name": "Colina",
+      "codes": {
+        "S_38_1":  { "label": "PM10",         "unit": "µg/m3" },
+        "S_38_2":  { "label": "PM2.5",        "unit": "µg/m3" },
+        "S_38_3":  { "label": "NO",           "unit": "ppb" },
+        "S_38_4":  { "label": "NO2",          "unit": "ppb" },
+        "S_38_5":  { "label": "NOX",          "unit": "ppb" },
+        "S_38_6":  { "label": "SO2",          "unit": "ppb" },
+        "S_38_7":  { "label": "CO",           "unit": "ppm" },
+        "S_38_8":  { "label": "OZONO",        "unit": "ppb" },
+        "S_38_9":  { "label": "Vel Viento",   "unit": "m/s" },
+        "S_38_10": { "label": "Dir Viento",   "unit": "Grados" },
+        "S_38_11": { "label": "Temperatura",  "unit": "°C" },
+        "S_38_13": { "label": "Presion Baro", "unit": "mmHg" },
+        "S_38_14": { "label": "Rad Solar",    "unit": "W/m²" },
+        "S_38_33": { "label": "Precipitacion","unit": "mm" }
+      }
+    },
+    "30": {
+      "name": "Fontibon",
+      "codes": {
+        "S_30_1":  { "label": "PM10",         "unit": "µg/m3" },
+        "S_30_2":  { "label": "CO",           "unit": "ppm" },
+        "S_30_3":  { "label": "OZONO",        "unit": "ppb" },
+        "S_30_4":  { "label": "NO",           "unit": "ppb" },
+        "S_30_5":  { "label": "NO2",          "unit": "ppb" },
+        "S_30_6":  { "label": "NOX",          "unit": "ppb" },
+        "S_30_7":  { "label": "SO2",          "unit": "ppb" },
+        "S_30_8":  { "label": "Vel Viento",   "unit": "m/s" },
+        "S_30_9":  { "label": "Dir Viento",   "unit": "Grados" },
+        "S_30_10": { "label": "Temperatura",  "unit": "°C" },
+        "S_30_11": { "label": "Precipitacion","unit": "mm" },
+        "S_30_12": { "label": "PM2.5",        "unit": "µg/m3" },
+        "S_30_13": { "label": "HR",           "unit": "%" },
+        "S_30_21": { "label": "BBP",          "unit": "%" },
+        "S_30_22": { "label": "Presion Baro", "unit": "mmHg" },
+        "S_30_36": { "label": "eBC",          "unit": "µg/m3" }
+      }
+    },
+    "34": {
+    "name": "Jazmin",
+    "codes": {
+      "S_34_1":  { "label": "PM10",         "unit": "µg/m3" },
+      "S_34_2":  { "label": "PM2.5",        "unit": "µg/m3" },
+      "S_34_3":  { "label": "NO",           "unit": "ppb" },
+      "S_34_4":  { "label": "NO2",          "unit": "ppb" },
+      "S_34_5":  { "label": "NOX",          "unit": "ppb" },
+      "S_34_6":  { "label": "SO2",          "unit": "ppb" },
+      "S_34_7":  { "label": "CO",           "unit": "ppm" },
+      "S_34_8":  { "label": "OZONO",        "unit": "ppb" },
+      "S_34_9":  { "label": "Vel Viento",   "unit": "m/s" },
+      "S_34_10": { "label": "Dir Viento",   "unit": "Grados" },
+      "S_34_11": { "label": "Temperatura",  "unit": "°C" },
+      "S_34_12": { "label": "HR",           "unit": "%" },
+      "S_34_13": { "label": "Presion Baro", "unit": "mmHg" },
+      "S_34_14": { "label": "Rad Solar",    "unit": "W/m²" },
+      "S_34_28": { "label": "Precipitacion","unit": "mm" }
+        }
+    },
+    "9": {
+        "name": "Kennedy",
+        "codes": {
+        "S_9_1":  { "label": "PM10",          "unit": "µg/m3" },
+        "S_9_2":  { "label": "PM2.5",         "unit": "µg/m3" },
+        "S_9_3":  { "label": "CO",            "unit": "ppm" },
+        "S_9_4":  { "label": "NO",            "unit": "ppb" },
+        "S_9_5":  { "label": "NO2",           "unit": "ppb" },
+        "S_9_6":  { "label": "NOX",           "unit": "ppb" },
+        "S_9_7":  { "label": "SO2",           "unit": "ppb" },
+        "S_9_8":  { "label": "Vel Viento",    "unit": "m/s" },
+        "S_9_9":  { "label": "Dir Viento",    "unit": "Grados" },
+        "S_9_11": { "label": "Precipitacion", "unit": "mm" },
+        "S_9_13": { "label": "HR",            "unit": "%" },
+        "S_9_14": { "label": "PM2.5 Flow",    "unit": "" },
+        "S_9_16": { "label": "Rad Solar",     "unit": "W/m²" },
+        "S_9_18": { "label": "CO2",           "unit": "ppm" },
+        "S_9_19": { "label": "OZONO",         "unit": "ppb" },
+        "S_9_31": { "label": "BBP",           "unit": "%" },
+        "S_9_37": { "label": "eBC",           "unit": "µg/m3" }
+        }
+    },
+    "6": {
+        "name": "Las Ferias",
+        "codes": {
+        "S_6_1":  { "label": "PM10",          "unit": "µg/m3" },
+        "S_6_2":  { "label": "CO",            "unit": "ppm" },
+        "S_6_3":  { "label": "OZONO",         "unit": "ppb" },
+        "S_6_4":  { "label": "NO",            "unit": "ppb" },
+        "S_6_5":  { "label": "NO2",           "unit": "ppb" },
+        "S_6_6":  { "label": "NOX",           "unit": "ppb" },
+        "S_6_8":  { "label": "Vel Viento",    "unit": "m/s" },
+        "S_6_9":  { "label": "Dir Viento",    "unit": "Grados" },
+        "S_6_10": { "label": "Temperatura",   "unit": "°C" },
+        "S_6_11": { "label": "HR",            "unit": "%" },
+        "S_6_12": { "label": "Precipitacion", "unit": "mm" },
+        "S_6_13": { "label": "Presion Baro",  "unit": "mmHg" },
+        "S_6_15": { "label": "PM2.5",         "unit": "µg/m3" }
+        }
+    },
+    "17": {
+        "name": "MinAmbiente",
+        "codes": {
+        "S_17_1":  { "label": "PM10",          "unit": "µg/m3" },
+        "S_17_3":  { "label": "PM2.5",         "unit": "µg/m3" },
+        "S_17_5":  { "label": "Vel Viento",    "unit": "m/s" },
+        "S_17_6":  { "label": "Precipitacion", "unit": "mm" },
+        "S_17_7":  { "label": "Dir Viento",    "unit": "Grados" },
+        "S_17_9":  { "label": "OZONO",         "unit": "ppb" },
+        "S_17_22": { "label": "CO",            "unit": "ppm" },
+        "S_17_23": { "label": "SO2",           "unit": "ppb" },
+        "S_17_27": { "label": "NO",            "unit": "ppb" },
+        "S_17_28": { "label": "NO2",           "unit": "ppb" },
+        "S_17_29": { "label": "NOX",           "unit": "ppb" }
+        }
+    },
+    "26": {
+        "name": "Movil 7ma",
+        "codes": {
+        "S_26_1":  { "label": "PM10",          "unit": "µg/m3" },
+        "S_26_2":  { "label": "CO",            "unit": "ppm" },
+        "S_26_11": { "label": "Vel Viento",    "unit": "m/s" },
+        "S_26_12": { "label": "Dir Viento",    "unit": "Grados" },
+        "S_26_13": { "label": "Temperatura",   "unit": "°C" },
+        "S_26_14": { "label": "Presion Baro",  "unit": "mmHg" },
+        "S_26_15": { "label": "Rad Solar",     "unit": "W/m²" },
+        "S_26_16": { "label": "Precipitacion", "unit": "mm" },
+        "S_26_17": { "label": "HR",            "unit": "%" },
+        "S_26_19": { "label": "PM2.5",         "unit": "µg/m3" }
+        }
+    },
+    "39": {
+    "name": "Movil Fontibon",
+    "codes": {
+      "S_39_1":  { "label": "PM10",         "unit": "µg/m3" },
+      "S_39_2":  { "label": "PM2.5",        "unit": "µg/m3" },
+      "S_39_3":  { "label": "NO",           "unit": "ppb" },
+      "S_39_4":  { "label": "NO2",          "unit": "ppb" },
+      "S_39_5":  { "label": "NOX",          "unit": "ppb" },
+      "S_39_7":  { "label": "CO",           "unit": "ppm" },
+      "S_39_13": { "label": "Presion Baro", "unit": "mmHg" },
+      "S_39_14": { "label": "Rad Solar",    "unit": "W/m²" },
+      "S_39_15": { "label": "Temperatura",  "unit": "°C" }
+        }
+    },
+    "13": {
+        "name": "Puente Aranda",
+        "codes": {
+        "S_13_1":  { "label": "PM10",          "unit": "µg/m3" },
+        "S_13_2":  { "label": "CO",            "unit": "ppm" },
+        "S_13_3":  { "label": "OZONO",         "unit": "ppb" },
+        "S_13_4":  { "label": "NO",            "unit": "ppb" },
+        "S_13_5":  { "label": "NO2",           "unit": "ppb" },
+        "S_13_6":  { "label": "NOX",           "unit": "ppb" },
+        "S_13_7":  { "label": "SO2",           "unit": "ppb" },
+        "S_13_8":  { "label": "Vel Viento",    "unit": "m/s" },
+        "S_13_9":  { "label": "Dir Viento",    "unit": "Grados" },
+        "S_13_10": { "label": "Temperatura",   "unit": "°C" },
+        "S_13_11": { "label": "Precipitacion", "unit": "mm" },
+        "S_13_12": { "label": "PM10 Flow",     "unit": "l/m" },
+        "S_13_13": { "label": "PM2.5",         "unit": "µg/m3" },
+        "S_13_30": { "label": "Presion Baro",  "unit": "mmHg" },
+        "S_13_31": { "label": "Rad Solar",     "unit": "W/m²" },
+        "S_13_32": { "label": "HR",            "unit": "%" },
+        "S_13_37": { "label": "BBP",           "unit": "%" },
+        "S_13_46": { "label": "eBC",           "unit": "µg/m3" }
+        }
+    },
+    "24": {
+        "name": "San Cristobal",
+        "codes": {
+        "S_24_1":  { "label": "PM10",          "unit": "µg/m3" },
+        "S_24_3":  { "label": "CO",            "unit": "ppm" },
+        "S_24_7":  { "label": "SO2",           "unit": "ppb" },
+        "S_24_8":  { "label": "Vel Viento",    "unit": "m/s" },
+        "S_24_9":  { "label": "Dir Viento",    "unit": "Grados" },
+        "S_24_10": { "label": "Temperatura",   "unit": "°C" },
+        "S_24_11": { "label": "Precipitacion", "unit": "mm" },
+        "S_24_12": { "label": "HR",            "unit": "%" },
+        "S_24_13": { "label": "Rad Solar",     "unit": "W/m²" },
+        "S_24_15": { "label": "PM2.5",         "unit": "µg/m3" },
+        "S_24_16": { "label": "OZONO",         "unit": "ppb" },
+        "S_24_28": { "label": "NO",            "unit": "ppb" },
+        "S_24_29": { "label": "NO2",           "unit": "ppb" },
+        "S_24_30": { "label": "NOX",           "unit": "ppb" },
+        "S_24_34": { "label": "BBP",           "unit": "%" },
+        "S_24_43": { "label": "eBC",           "unit": "µg/m3" }
+        }
+    },
+    "11": {
+        "name": "Suba",
+        "codes": {
+        "S_11_1":  { "label": "PM10",          "unit": "µg/m3" },
+        "S_11_3":  { "label": "NO",            "unit": "ppb" },
+        "S_11_4":  { "label": "NO2",           "unit": "ppb" },
+        "S_11_5":  { "label": "NOX",           "unit": "ppb" },
+        "S_11_6":  { "label": "OZONO",         "unit": "ppb" },
+        "S_11_7":  { "label": "Vel Viento",    "unit": "m/s" },
+        "S_11_8":  { "label": "Dir Viento",    "unit": "Grados" },
+        "S_11_9":  { "label": "Temperatura",   "unit": "°C" },
+        "S_11_10": { "label": "Precipitacion", "unit": "mm" },
+        "S_11_11": { "label": "SO2",           "unit": "ppb" },
+        "S_11_12": { "label": "PM2.5",         "unit": "µg/m3" },
+        "S_11_28": { "label": "CO",            "unit": "ppm" }
+        }
+    },
+    "4": {
+        "name": "Tunal",
+        "codes": {
+        "S_4_1":  { "label": "PM10",          "unit": "µg/m3" },
+        "S_4_2":  { "label": "CO",            "unit": "ppm" },
+        "S_4_3":  { "label": "SO2",           "unit": "ppb" },
+        "S_4_4":  { "label": "Vel Viento",    "unit": "m/s" },
+        "S_4_5":  { "label": "Dir Viento",    "unit": "Grados" },
+        "S_4_7":  { "label": "Precipitacion", "unit": "mm" },
+        "S_4_8":  { "label": "NO",            "unit": "ppb" },
+        "S_4_9":  { "label": "NO2",           "unit": "ppb" },
+        "S_4_10": { "label": "NOX",           "unit": "ppb" },
+        "S_4_11": { "label": "HR",            "unit": "%" },
+        "S_4_13": { "label": "OZONO",         "unit": "ppb" },
+        "S_4_14": { "label": "PM2.5",         "unit": "µg/m3" },
+        "S_4_22": { "label": "Rad Solar",     "unit": "W/m²" },
+        "S_4_23": { "label": "Presion Baro",  "unit": "mmHg" },
+        "S_4_34": { "label": "BBP",           "unit": "%" },
+        "S_4_46": { "label": "eBC",           "unit": "µg/m3" }
+        }
+    },
+    "1": {
+        "name": "Usaquen",
+        "codes": {
+        "S_1_1":  { "label": "PM10",          "unit": "µg/m3" },
+        "S_1_3":  { "label": "NO",            "unit": "ppb" },
+        "S_1_4":  { "label": "NO2",           "unit": "ppb" },
+        "S_1_5":  { "label": "NOX",           "unit": "ppb" },
+        "S_1_6":  { "label": "Vel Viento",    "unit": "m/s" },
+        "S_1_7":  { "label": "Dir Viento",    "unit": "Grados" },
+        "S_1_8":  { "label": "Temperatura",   "unit": "°C" },
+        "S_1_9":  { "label": "Precipitacion", "unit": "mm" },
+        "S_1_10": { "label": "PM2.5",         "unit": "µg/m3" },
+        "S_1_11": { "label": "OZONO",         "unit": "ppb" },
+        "S_1_13": { "label": "CO",            "unit": "ppm" },
+        "S_1_16": { "label": "SO2",           "unit": "ppb" }
+        }
+    },
+    "32": {
+        "name": "Usme",
+        "codes": {
+        "S_32_1":  { "label": "PM10",          "unit": "µg/m3" },
+        "S_32_2":  { "label": "PM2.5",         "unit": "µg/m3" },
+        "S_32_3":  { "label": "NO",            "unit": "ppb" },
+        "S_32_4":  { "label": "NO2",           "unit": "ppb" },
+        "S_32_5":  { "label": "NOX",           "unit": "ppb" },
+        "S_32_6":  { "label": "SO2",           "unit": "ppb" },
+        "S_32_7":  { "label": "CO",            "unit": "ppm" },
+        "S_32_8":  { "label": "OZONO",         "unit": "ppb" },
+        "S_32_11": { "label": "Temperatura",   "unit": "°C" },
+        "S_32_13": { "label": "Presion Baro",  "unit": "mmHg" },
+        "S_32_14": { "label": "Rad Solar",     "unit": "W/m²" },
+        "S_32_29": { "label": "Precipitacion", "unit": "mm" }
+        }
+    }
+  }
+}

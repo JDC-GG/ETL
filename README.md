@@ -44,7 +44,7 @@ source .venv/Scripts/activate     # Linux
 pip install -r requirements.txt
 ```
 
-4. Ejecuta todo el flujo (descarga):
+4. Ejecuta todo el flujo
 
 ```bash
 robot download_report.robot

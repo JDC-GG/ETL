@@ -6,7 +6,7 @@
 - Visual Studio Code
 - Robot Framework
 - Polars
-- Duck DB (Driver)
+- Duck DB 
 - Librerías adicionales:
 
 ```bash
